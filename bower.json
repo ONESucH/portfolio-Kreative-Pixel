@@ -1,0 +1,23 @@
+{
+  "name": "kreative-Pixel",
+  "homepage": "https://github.com/ONESucH/portfolio-2-",
+  "authors": [
+    "Onesuch <experts1994@mail.ru>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "font-awesome": "^4.6.3",
+    "jquery": "^3.1.0",
+    "gulp": "^3.9.1",
+    "less": "^2.7.1"
+  }
+}
